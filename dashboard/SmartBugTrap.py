@@ -8,7 +8,7 @@ st.title("Smart Bug Trap 🦟")
 st.write("딥러닝 기반의 해충 탐지 및 제거 시스템")
 st.markdown('<pre># 지속성  # 정돈된 외관      # 편리함       # 쉬운 관리</pre>', unsafe_allow_html=True)
 
-st.image("/Users/jangsooin/Library/Mobile Documents/com~apple~CloudDocs/숭실대학교/숭실대학교(1-2)/프로그래밍및실습2/프로젝트_프밍2/대시보드/flowchart_ras.png", caption="Smart Bug Trap flow chart", use_container_width=True)
+st.image("flowchart_ras.png", caption="Smart Bug Trap flow chart", use_container_width=True)
 
 
 for i in range(8):
