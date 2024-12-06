@@ -15,18 +15,18 @@ for i in range(8):
     st.write("\n")
 
 st.header("장치 특징 👾")
-st.markdown('<span style="font-size: 20px; color: MediumPurple;"><b>전통적인 벌레 박멸 방법</b></span><span style="font-size: 20px; color: black;"><b>인 업체를 부르거나 끈끈이, 살충제 등을 사용하는 방식은 벌레가 주로 활동하는 특정 지역을</b></span> <span style="font-size: 20px; color: MediumPurple;"><b>효율적으로 타겟팅하기 어렵다.</b></span>', unsafe_allow_html=True)
-st.markdown('<span style="font-size: 20px; color: black;"><b>보다 간편하고 지속 가능한 해결책을 찾고자,</b></span><span style="font-size: 20px; color: MediumPurple;"><b> 라즈베리파이를 활용하여 벌레를 유인하고 살충제를 뿌린 뒤</b></span> <span style="font-size: 20px; color: black;"><b>손쉽게 처리할 수 있는 장치를 고안하게 되었다.</b></span>', unsafe_allow_html=True)
-st.markdown('<span style="font-size: 20px; color: black;"><b>이 장치는 집 안 뿐만 아니라 캠핑장고 같은 외부 환경에서도 </b></span><span style="font-size: 20px; color: MediumPurple;"><b> 전원만 있다면</b></span> <span style="font-size: 20px; color: black;"><b> 자유롭게 사용할 수 있도록 설계되었다.</b></span>', unsafe_allow_html=True)
+st.markdown('<span style="font-size: 20px; color: MediumPurple;"><b>전통적인 벌레 박멸 방법</b></span><span style="font-size: 20px;"><b>인 업체를 부르거나 끈끈이, 살충제 등을 사용하는 방식은 벌레가 주로 활동하는 특정 지역을</b></span> <span style="font-size: 20px; color: MediumPurple;"><b>효율적으로 타겟팅하기 어렵다.</b></span>', unsafe_allow_html=True)
+st.markdown('<span style="font-size: 20px;"><b>보다 간편하고 지속 가능한 해결책을 찾고자,</b></span><span style="font-size: 20px; color: MediumPurple;"><b> 라즈베리파이를 활용하여 벌레를 유인하고 살충제를 뿌린 뒤</b></span> <span style="font-size: 20px;"><b>손쉽게 처리할 수 있는 장치를 고안하게 되었다.</b></span>', unsafe_allow_html=True)
+st.markdown('<span style="font-size: 20px;"><b>이 장치는 집 안 뿐만 아니라 캠핑장고 같은 외부 환경에서도 </b></span><span style="font-size: 20px; color: MediumPurple;"><b> 전원만 있다면</b></span> <span style="font-size: 20px;"><b> 자유롭게 사용할 수 있도록 설계되었다.</b></span>', unsafe_allow_html=True)
 
 for i in range(8):
     st.write("\n")
 
 # 주의 사항
 st.header("주의 사항 🛑")
-st.markdown('<span style="font-size: 20px; color: black;"><b> 1. 장치에 손을 넣으면 안됩니다.</b></span>', unsafe_allow_html=True)
-st.markdown('<span style="font-size: 20px; color: black;"><b> 2. 어두운 곳에서는 작동이 잘 되지 않을 수 있습니다.</b></span>', unsafe_allow_html=True)
-st.markdown('<span style="font-size: 20px; color: black;"><b> 3. 살충제와 유인제를 다 사용했을 경우 리필해줘야 합니다.</b></span>', unsafe_allow_html=True)
+st.markdown('<span style="font-size: 20px;"><b> 1. 장치에 손을 넣으면 안됩니다.</b></span>', unsafe_allow_html=True)
+st.markdown('<span style="font-size: 20px;"><b> 2. 어두운 곳에서는 작동이 잘 되지 않을 수 있습니다.</b></span>', unsafe_allow_html=True)
+st.markdown('<span style="font-size: 20px;"><b> 3. 살충제와 유인제를 다 사용했을 경우 리필해줘야 합니다.</b></span>', unsafe_allow_html=True)
 
 for i in range(8):
     st.write("\n")
