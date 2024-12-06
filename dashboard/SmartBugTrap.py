@@ -37,7 +37,7 @@ st.header("장치 모습 📸")
 
 
 st.header("QR 코드 📸")
-dashboard_url = "http://localhost:8502" 
+dashboard_url = "https://smartbugtrap-witph6stpuaxoqyv9v64kq.streamlit.app" 
 qr = qrcode.make(dashboard_url)
 qr_image = qr.convert('RGB')
 st.image(qr_image, caption="대시보드 QR 코드", use_column_width=True)
