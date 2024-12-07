@@ -33,6 +33,7 @@ for i in range(8):
 
 # 장치 사진 업로드 섹션
 st.header("장치 모습 📸")
+st.image("dashboard/장치 사진.PNG", caption="Smart Bug Trap", use_container_width=True)
 
 
 
